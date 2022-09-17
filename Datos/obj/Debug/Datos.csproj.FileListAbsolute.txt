@@ -1,0 +1,9 @@
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\bin\Debug\Datos.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\bin\Debug\Datos.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\bin\Debug\Entidades.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\bin\Debug\Entidades.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\obj\Debug\Datos.csproj.AssemblyReference.cache
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\obj\Debug\Datos.csproj.CoreCompileInputs.cache
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\obj\Debug\Datos.csproj.CopyComplete
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\obj\Debug\Datos.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Datos\obj\Debug\Datos.pdb

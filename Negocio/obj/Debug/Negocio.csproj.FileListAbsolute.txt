@@ -1,0 +1,14 @@
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Negocio.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Negocio.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Datos.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Entidades.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Datos.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Entidades.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\obj\Debug\Negocio.csproj.AssemblyReference.cache
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\obj\Debug\Negocio.csproj.CoreCompileInputs.cache
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\obj\Debug\Negocio.csproj.CopyComplete
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\obj\Debug\Negocio.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\obj\Debug\Negocio.pdb
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Negocio.dll.config
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Newtonsoft.Json.dll
+C:\ProyectC#\Proyecto3capas\CRUD3Capas\Negocio\bin\Debug\Newtonsoft.Json.xml
