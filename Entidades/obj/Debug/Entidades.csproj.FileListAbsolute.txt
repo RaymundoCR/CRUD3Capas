@@ -1,6 +1,0 @@
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\bin\Debug\Entidades.dll
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\bin\Debug\Entidades.pdb
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\obj\Debug\Entidades.csproj.AssemblyReference.cache
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\obj\Debug\Entidades.csproj.CoreCompileInputs.cache
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\obj\Debug\Entidades.dll
-C:\ProyectC#\Proyecto3capas\CRUD3Capas\Entidades\obj\Debug\Entidades.pdb
